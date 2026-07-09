@@ -1,0 +1,2 @@
+# LeetCoad-Practice
+Solving Question 
